@@ -1,0 +1,23 @@
+
+*{
+
+    background-color: aliceblue;
+}
+
+h1{
+
+    color: chartreuse;
+    text-align: center;
+}
+
+th{
+
+    color: chocolate;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+td{
+
+    color: cornflowerblue;
+}

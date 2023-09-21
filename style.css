@@ -1,0 +1,30 @@
+* {
+
+    text-align: center;
+}
+
+h1,p{
+
+    color: blue;
+}
+h2,a{
+
+    color: red;
+}
+
+h3,h1{
+
+    font-weight: lighter;
+}
+
+h2{
+
+    text-decoration: underline;
+}
+
+
+*{
+
+    background-color: antiquewhite;
+}
+
